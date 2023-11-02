@@ -1,6 +1,7 @@
 # 우선순위 큐 (heap으로 구현)
 import heapq
 
+INF = int(1e9)
 
 def dijkstra_pq(graph, start):
     N = len(graph)
