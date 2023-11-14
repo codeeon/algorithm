@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/1011
+
 import sys, math
 
 T = int(sys.stdin.readline())
